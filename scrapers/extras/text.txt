@@ -1,0 +1,108 @@
+PS C:\Users\tousi\Desktop\Project_canada> python updated.py Edmonton --max -1
+2025-09-09 12:15:25,400 - INFO - Scrape all mode enabled. Detecting total profiles...
+2025-09-09 12:15:25,505 - INFO - Detecting total entries for city: Edmonton...
+2025-09-09 12:15:44,116 - INFO - Total entries detected for Edmonton: 3326
+2025-09-09 12:15:44,172 - INFO - Starting scrape for city='Edmonton' with a target of 3326 profiles.
+2025-09-09 12:15:44,173 - INFO - --- Preparing to scrape profile 1/3326 (Page 1, Item 1) ---
+2025-09-09 12:16:07,118 - INFO - Successfully scraped data for: Angela L. Edgington
+2025-09-09 12:16:07,118 - INFO - --- Preparing to scrape profile 2/3326 (Page 1, Item 2) ---
+2025-09-09 12:16:17,782 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 12:16:17,782 - INFO - --- Preparing to scrape profile 3/3326 (Page 1, Item 3) ---
+2025-09-09 12:16:31,080 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 12:16:31,080 - INFO - --- Preparing to scrape profile 4/3326 (Page 1, Item 4) ---
+2025-09-09 12:16:45,205 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 12:16:45,205 - INFO - --- Preparing to scrape profile 5/3326 (Page 1, Item 5) ---
+2025-09-09 12:16:57,126 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 12:16:57,126 - INFO - --- Preparing to scrape profile 6/3326 (Page 1, Item 6) ---
+2025-09-09 12:17:11,042 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 12:17:11,043 - INFO - --- Preparing to scrape profile 7/3326 (Page 1, Item 7) ---
+2025-09-09 12:17:25,664 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 12:17:25,664 - INFO - --- Preparing to scrape profile 8/3326 (Page 1, Item 8) ---
+2025-09-09 12:17:38,811 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 12:17:38,811 - INFO - --- Preparing to scrape profile 9/3326 (Page 1, Item 9) ---
+2025-09-09 12:17:51,773 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 12:17:51,773 - INFO - --- Preparing to scrape profile 10/3326 (Page 1, Item 10) ---
+2025-09-09 12:18:03,330 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 12:18:03,330 - INFO - --- Preparing to scrape profile 11/3326 (Page 2, Item 1) ---
+2025-09-09 12:18:16,059 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 12:18:16,059 - INFO - --- Preparing to scrape profile 12/3326 (Page 2, Item 2) ---
+2025-09-09 12:18:29,085 - INFO - Successfully scraped data for: A. T. Holko
+2025-09-09 12:18:29,085 - INFO - --- Preparing to scrape profile 13/3326 (Page 2, Item 3) ---
+2025-09-09 12:18:40,140 - INFO - Successfully scraped data for: A.S. Attia
+2025-09-09 12:18:40,140 - INFO - --- Preparing to scrape profile 14/3326 (Page 2, Item 4) ---
+2025-09-09 12:18:56,185 - INFO - Successfully scraped data for: Aaida Peerani
+2025-09-09 12:18:56,185 - INFO - --- Preparing to scrape profile 15/3326 (Page 2, Item 5) ---
+2025-09-09 12:19:13,495 - INFO - Successfully scraped data for: Aaron B. Friedenthal
+2025-09-09 12:19:13,495 - INFO - --- Preparing to scrape profile 16/3326 (Page 2, Item 6) ---
+2025-09-09 12:19:28,389 - INFO - Successfully scraped data for: Aaron Brown
+2025-09-09 12:19:28,389 - INFO - --- Preparing to scrape profile 17/3326 (Page 2, Item 7) ---
+2025-09-09 12:19:42,930 - INFO - Successfully scraped data for: Aaron Hymes
+2025-09-09 12:19:42,931 - INFO - --- Preparing to scrape profile 18/3326 (Page 2, Item 8) ---
+2025-09-09 12:19:56,146 - INFO - Successfully scraped data for: Aaron Mann
+2025-09-09 12:19:56,146 - INFO - --- Preparing to scrape profile 19/3326 (Page 2, Item 9) ---
+2025-09-09 12:20:06,938 - INFO - Successfully scraped data for: Aaron Pegg
+2025-09-09 12:20:06,938 - INFO - --- Preparing to scrape profile 20/3326 (Page 2, Item 10) ---
+2025-09-09 12:20:24,036 - INFO - Successfully scraped data for: Abbey Bartel
+2025-09-09 12:20:24,036 - INFO - --- Preparing to scrape profile 21/3326 (Page 3, Item 1) ---
+2025-09-09 12:20:36,220 - INFO - Successfully scraped data for: Abdul M. Zia
+2025-09-09 12:20:36,220 - INFO - --- Preparing to scrape profile 22/3326 (Page 3, Item 2) ---
+2025-09-09 12:20:48,929 - INFO - Successfully scraped data for: Ada Tang
+2025-09-09 12:20:48,930 - INFO - --- Preparing to scrape profile 23/3326 (Page 3, Item 3) ---
+2025-09-09 12:21:05,580 - INFO - Successfully scraped data for: Adaku Ugochi Uju
+2025-09-09 12:21:05,580 - INFO - --- Preparing to scrape profile 24/3326 (Page 3, Item 4) ---
+2025-09-09 12:21:16,505 - INFO - Successfully scraped data for: Adam Badari
+2025-09-09 12:21:16,505 - INFO - --- Preparing to scrape profile 25/3326 (Page 3, Item 5) ---
+2025-09-09 12:21:28,676 - INFO - Successfully scraped data for: Adam Blaibel
+2025-09-09 12:21:28,677 - INFO - --- Preparing to scrape profile 26/3326 (Page 3, Item 6) ---
+2025-09-09 12:21:39,762 - INFO - Successfully scraped data for: Adam C. Halliday
+2025-09-09 12:21:39,762 - INFO - --- Preparing to scrape profile 27/3326 (Page 3, Item 7) ---
+2025-09-09 12:21:50,562 - INFO - Successfully scraped data for: Adam Chadi
+2025-09-09 12:21:50,563 - INFO - --- Preparing to scrape profile 28/3326 (Page 3, Item 8) ---
+2025-09-09 12:22:03,475 - INFO - Successfully scraped data for: Adam D. Merrick
+2025-09-09 12:22:03,476 - INFO - --- Preparing to scrape profile 29/3326 (Page 3, Item 9) ---
+2025-09-09 12:22:14,900 - INFO - Successfully scraped data for: Adam Elsafadi
+2025-09-09 12:22:14,900 - INFO - --- Preparing to scrape profile 30/3326 (Page 3, Item 10) ---
+2025-09-09 12:22:28,389 - INFO - Successfully scraped data for: Adam Ferland
+2025-09-09 12:22:28,390 - INFO - --- Preparing to scrape profile 31/3326 (Page 4, Item 1) ---
+2025-09-09 12:22:39,480 - INFO - Successfully scraped data for: Adam Garrett
+2025-09-09 12:22:39,480 - INFO - --- Preparing to scrape profile 32/3326 (Page 4, Item 2) ---
+2025-09-09 12:22:53,439 - INFO - Successfully scraped data for: Adam Gerard Stephen Quirk
+2025-09-09 12:22:53,440 - INFO - --- Preparing to scrape profile 33/3326 (Page 4, Item 3) ---
+2025-09-09 12:23:04,732 - INFO - Successfully scraped data for: Adam Karbani
+2025-09-09 12:23:04,732 - INFO - --- Preparing to scrape profile 34/3326 (Page 4, Item 4) ---
+2025-09-09 12:23:16,995 - INFO - Successfully scraped data for: Adam Klassen
+2025-09-09 12:23:16,995 - INFO - --- Preparing to scrape profile 35/3326 (Page 4, Item 5) ---
+2025-09-09 12:23:28,278 - INFO - Successfully scraped data for: Adam Kotlowitz
+2025-09-09 12:23:28,278 - INFO - --- Preparing to scrape profile 36/3326 (Page 4, Item 6) ---
+2025-09-09 12:23:42,838 - INFO - Successfully scraped data for: Adam Norget
+2025-09-09 12:23:42,838 - INFO - --- Preparing to scrape profile 37/3326 (Page 4, Item 7) ---
+2025-09-09 12:23:56,889 - INFO - Successfully scraped data for: Adam Ollenberger
+2025-09-09 12:23:56,889 - INFO - --- Preparing to scrape profile 38/3326 (Page 4, Item 8) ---
+2025-09-09 12:24:07,412 - INFO - Successfully scraped data for: Adam Pasichnyk
+2025-09-09 12:24:07,412 - INFO - --- Preparing to scrape profile 39/3326 (Page 4, Item 9) ---
+2025-09-09 12:24:20,570 - INFO - Successfully scraped data for: Adam Richard Cembrowski
+2025-09-09 12:24:20,570 - INFO - --- Preparing to scrape profile 40/3326 (Page 4, Item 10) ---
+2025-09-09 12:24:31,778 - INFO - Successfully scraped data for: Adam Sanderman
+2025-09-09 12:24:31,778 - INFO - --- Preparing to scrape profile 41/3326 (Page 5, Item 1) ---
+2025-09-09 12:24:45,340 - INFO - Successfully scraped data for: Adam Shaben
+2025-09-09 12:24:45,340 - INFO - --- Preparing to scrape profile 42/3326 (Page 5, Item 2) ---
+2025-09-09 12:24:57,913 - INFO - Successfully scraped data for: Adam Sopka
+2025-09-09 12:24:57,913 - INFO - --- Preparing to scrape profile 43/3326 (Page 5, Item 3) ---
+2025-09-09 12:25:11,587 - INFO - Successfully scraped data for: Adam Zibdawi
+2025-09-09 12:25:11,587 - INFO - --- Preparing to scrape profile 44/3326 (Page 5, Item 4) ---
+2025-09-09 12:25:25,857 - INFO - Successfully scraped data for: Adedoyin Olubunmi Adebiyi
+2025-09-09 12:25:25,857 - INFO - --- Preparing to scrape profile 45/3326 (Page 5, Item 5) ---
+2025-09-09 12:25:37,882 - INFO - Successfully scraped data for: Adeel Malik
+2025-09-09 12:25:37,882 - INFO - --- Preparing to scrape profile 46/3326 (Page 5, Item 6) ---
+2025-09-09 12:25:53,509 - INFO - Successfully scraped data for: Adelyn Foong
+2025-09-09 12:25:53,509 - INFO - --- Preparing to scrape profile 47/3326 (Page 5, Item 7) ---
+2025-09-09 12:26:05,136 - INFO - Successfully scraped data for: Aditya Parihar
+2025-09-09 12:26:05,137 - INFO - --- Preparing to scrape profile 48/3326 (Page 5, Item 8) ---
+2025-09-09 12:26:17,855 - INFO - Successfully scraped data for: Adrian Albert
+2025-09-09 12:26:17,855 - INFO - --- Preparing to scrape profile 49/3326 (Page 5, Item 9) ---
+2025-09-09 12:26:31,413 - INFO - Successfully scraped data for: Adrian H. Lambert
+2025-09-09 12:26:31,414 - INFO - --- Preparing to scrape profile 50/3326 (Page 5, Item 10) ---
+2025-09-09 12:26:44,754 - INFO - Successfully scraped data for: Adrian Sherman
+2025-09-09 12:26:44,755 - INFO - --- Preparing to scrape profile 51/3326 (Page 6, Item 1) ---
+2025-09-09 12:26:58,787 - INFO - Successfully scraped data for: Adrienne Funk
+2025-09-09 12:26:58,787 - INFO - --- Preparing to scrape profile 52/3326 (Page 6, Item 2) ---

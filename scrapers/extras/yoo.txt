@@ -1,0 +1,931 @@
+2025-09-09 09:31:34,253 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:31:46,229 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:31:49,658 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:32:01,280 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:32:04,672 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:32:15,145 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:32:18,591 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:32:29,891 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:32:33,289 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:32:46,091 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:32:49,496 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:32:58,981 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:33:02,393 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:33:15,045 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:33:18,506 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:33:30,614 - INFO - Attempting to navigate to page 9...
+2025-09-09 09:33:30,622 - INFO - Direct link for page 9 not found. Clicking 'Next' button.
+2025-09-09 09:33:30,636 - INFO - --- Scraping Page 9 ---
+2025-09-09 09:33:30,648 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:33:34,052 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:33:45,200 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:33:48,616 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:34:00,502 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:34:08,916 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:34:20,822 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:34:24,234 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:34:34,509 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:34:37,918 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:34:50,266 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:34:53,723 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:35:05,676 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:35:09,092 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:35:19,722 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:35:23,170 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:35:32,699 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:35:36,112 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:35:47,808 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:35:51,208 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:36:03,201 - INFO - Attempting to navigate to page 10...
+2025-09-09 09:36:03,216 - INFO - Direct link for page 10 not found. Clicking 'Next' button.
+2025-09-09 09:36:03,262 - INFO - --- Scraping Page 10 ---
+2025-09-09 09:36:03,274 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:36:06,688 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:36:16,536 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:36:19,951 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:36:32,316 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:36:35,731 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:36:48,372 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:36:51,807 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:37:03,299 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:37:06,718 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:37:20,059 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:37:23,475 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:37:36,794 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:37:40,220 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:37:51,867 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:37:55,278 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:38:05,322 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:38:08,734 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:38:19,724 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:38:23,162 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:38:34,338 - INFO - Attempting to navigate to page 11...
+2025-09-09 09:38:34,355 - INFO - Direct link for page 11 not found. Clicking 'Next' button.
+2025-09-09 09:38:34,387 - INFO - --- Scraping Page 11 ---
+2025-09-09 09:38:34,399 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:38:37,807 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:38:49,433 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:38:52,840 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:39:03,589 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:39:07,035 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:39:18,923 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:39:22,331 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:39:35,166 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:39:38,614 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:39:48,027 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:39:51,425 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:40:02,620 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:40:06,032 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:40:18,296 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:40:21,691 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:40:32,637 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:40:36,055 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:40:49,995 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:40:53,432 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:41:06,037 - INFO - Attempting to navigate to page 12...
+2025-09-09 09:41:06,045 - INFO - Direct link for page 12 not found. Clicking 'Next' button.
+2025-09-09 09:41:06,060 - INFO - --- Scraping Page 12 ---
+2025-09-09 09:41:06,072 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:41:09,477 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:41:23,390 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:41:26,839 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:41:37,197 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:41:40,612 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:41:53,993 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:41:57,413 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:42:08,966 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:42:12,383 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:42:24,591 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:42:28,026 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:42:40,406 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:42:44,839 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:42:54,819 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:42:58,248 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:43:09,556 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:43:13,004 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:43:25,798 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:43:29,223 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:43:41,667 - INFO - Attempting to navigate to page 13...
+2025-09-09 09:43:41,683 - INFO - Direct link for page 13 not found. Clicking 'Next' button.
+2025-09-09 09:43:41,727 - INFO - --- Scraping Page 13 ---
+2025-09-09 09:43:41,741 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:43:45,227 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:43:55,856 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:43:59,312 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:44:12,951 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:44:16,378 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:44:28,144 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:44:31,564 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:44:43,694 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:44:47,131 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:45:00,945 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:45:04,357 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:45:16,540 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:45:19,955 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:45:32,819 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:45:36,245 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:45:47,932 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:45:51,328 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:46:03,092 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:46:06,562 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:46:16,330 - INFO - Attempting to navigate to page 14...
+2025-09-09 09:46:16,338 - INFO - Direct link for page 14 not found. Clicking 'Next' button.
+2025-09-09 09:46:16,360 - INFO - --- Scraping Page 14 ---
+2025-09-09 09:46:16,381 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:46:19,815 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:46:35,259 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:46:38,662 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:46:50,248 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:46:53,640 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:47:04,694 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:47:08,125 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:47:21,455 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:47:24,863 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:47:39,763 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:47:43,194 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:47:56,606 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:48:00,026 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:48:10,274 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:48:13,749 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:48:25,154 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:48:28,609 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:48:38,078 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:48:41,507 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:48:52,551 - INFO - Attempting to navigate to page 15...
+2025-09-09 09:48:52,567 - INFO - Direct link for page 15 not found. Clicking 'Next' button.
+2025-09-09 09:48:52,602 - INFO - --- Scraping Page 15 ---
+2025-09-09 09:48:52,613 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:48:56,027 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:49:09,208 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:49:12,617 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:49:26,872 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:49:30,293 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:49:40,942 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:49:44,353 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:49:57,282 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:50:00,738 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:50:12,995 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:50:16,393 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:50:28,510 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:50:31,922 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:50:41,116 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:50:44,528 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:50:57,392 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:51:00,807 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:51:12,827 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:51:16,258 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:51:26,730 - INFO - Attempting to navigate to page 16...
+2025-09-09 09:51:26,738 - INFO - Direct link for page 16 not found. Clicking 'Next' button.
+2025-09-09 09:51:26,755 - INFO - --- Scraping Page 16 ---
+2025-09-09 09:51:26,769 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:51:30,163 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:51:42,822 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:51:46,224 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:52:01,603 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:52:05,079 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:52:16,022 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:52:19,415 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:52:32,342 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:52:35,772 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:52:48,816 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:52:52,226 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:53:03,303 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:53:06,715 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:53:16,750 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:53:20,156 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:53:33,005 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:53:36,461 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:53:49,546 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:53:52,993 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:54:05,178 - INFO - Attempting to navigate to page 17...
+2025-09-09 09:54:05,191 - INFO - Direct link for page 17 not found. Clicking 'Next' button.
+2025-09-09 09:54:05,237 - INFO - --- Scraping Page 17 ---
+2025-09-09 09:54:05,258 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:54:08,666 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:54:19,354 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:54:22,770 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:54:34,611 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:54:38,033 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:54:49,205 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:54:52,635 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:55:03,887 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:55:07,283 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:55:17,478 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:55:20,871 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:55:32,296 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:55:35,752 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:55:47,341 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:55:50,738 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:56:03,132 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:56:06,557 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:56:15,801 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:56:19,213 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:56:30,833 - INFO - Attempting to navigate to page 18...
+2025-09-09 09:56:30,842 - INFO - Direct link for page 18 not found. Clicking 'Next' button.
+2025-09-09 09:56:30,860 - INFO - --- Scraping Page 18 ---
+2025-09-09 09:56:30,873 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:56:34,299 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:56:44,684 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:56:48,102 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:56:58,651 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:57:02,105 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:57:14,306 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:57:17,723 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 09:57:27,776 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 09:57:31,198 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 09:57:44,130 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 09:57:47,594 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 09:57:59,923 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 09:58:03,813 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 09:58:14,097 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 09:58:17,498 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 09:58:31,523 - INFO - Scraping profile: A. G. Holan
+2025-09-09 09:58:34,966 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 09:58:48,755 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 09:58:52,159 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 09:59:10,403 - INFO - Attempting to navigate to page 19...
+2025-09-09 09:59:10,420 - INFO - Direct link for page 19 not found. Clicking 'Next' button.
+2025-09-09 09:59:10,456 - INFO - --- Scraping Page 19 ---
+2025-09-09 09:59:10,468 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 09:59:13,869 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 09:59:26,361 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 09:59:29,826 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 09:59:39,386 - INFO - Scraping profile: A. A. Garber
+2025-09-09 09:59:42,800 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 09:59:54,084 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 09:59:57,527 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:00:11,095 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:00:14,515 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:00:26,328 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:00:29,747 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:00:41,652 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:00:45,152 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:01:03,809 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:01:07,231 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:01:20,643 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:01:24,051 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:01:37,187 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:01:40,617 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:01:52,932 - INFO - Attempting to navigate to page 20...
+2025-09-09 10:01:52,947 - INFO - Direct link for page 20 not found. Clicking 'Next' button.
+2025-09-09 10:01:52,986 - INFO - --- Scraping Page 20 ---
+2025-09-09 10:01:52,997 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:01:56,418 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:02:08,084 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:02:11,520 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:02:23,887 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:02:27,278 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:02:38,112 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:02:41,556 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:02:52,887 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:02:56,357 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:03:11,290 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:03:14,704 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:03:26,929 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:03:30,416 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:03:42,102 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:03:45,507 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:03:57,962 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:04:01,369 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:04:14,447 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:04:17,874 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:04:32,375 - INFO - Attempting to navigate to page 21...
+2025-09-09 10:04:32,384 - INFO - Direct link for page 21 not found. Clicking 'Next' button.
+2025-09-09 10:04:32,400 - INFO - --- Scraping Page 21 ---
+2025-09-09 10:04:32,411 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:04:35,826 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:04:47,934 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:04:51,401 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:05:03,068 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:05:06,519 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:05:19,431 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:05:22,841 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:05:32,799 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:05:36,258 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:05:49,357 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:05:52,806 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:06:04,627 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:06:08,028 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:06:19,214 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:06:22,630 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:06:33,823 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:06:37,264 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:06:50,956 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:06:54,370 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:07:06,507 - INFO - Attempting to navigate to page 22...
+2025-09-09 10:07:06,524 - INFO - Direct link for page 22 not found. Clicking 'Next' button.
+2025-09-09 10:07:06,555 - INFO - --- Scraping Page 22 ---
+2025-09-09 10:07:06,567 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:07:09,984 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:07:21,114 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:07:24,534 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:07:37,658 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:07:41,064 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:07:54,313 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:07:57,755 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:08:10,686 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:08:14,088 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:08:24,780 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:08:28,221 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:08:41,270 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:08:44,721 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:08:55,241 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:08:58,637 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:09:08,396 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:09:11,802 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:09:25,167 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:09:28,615 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:09:40,338 - INFO - Attempting to navigate to page 23...
+2025-09-09 10:09:40,346 - INFO - Direct link for page 23 not found. Clicking 'Next' button.
+2025-09-09 10:09:40,367 - INFO - --- Scraping Page 23 ---
+2025-09-09 10:09:40,379 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:09:43,847 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:09:54,403 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:09:57,865 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:10:13,863 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:10:17,280 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:10:32,639 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:10:36,032 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:10:48,844 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:10:52,222 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:11:04,438 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:11:07,864 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:11:24,789 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:11:28,213 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:11:39,577 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:11:43,041 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:11:53,163 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:11:56,580 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:12:05,735 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:12:09,141 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:12:20,748 - INFO - Attempting to navigate to page 24...
+2025-09-09 10:12:20,765 - INFO - Direct link for page 24 not found. Clicking 'Next' button.
+2025-09-09 10:12:20,806 - INFO - --- Scraping Page 24 ---
+2025-09-09 10:12:20,818 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:12:24,230 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:12:37,602 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:12:41,090 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:12:52,894 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:12:57,397 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:13:06,764 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:13:10,200 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:13:23,521 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:13:26,919 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:13:39,475 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:13:42,897 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:13:54,004 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:13:57,442 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:14:06,920 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:14:10,327 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:14:21,162 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:14:24,573 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:14:35,390 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:14:38,803 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:14:50,459 - INFO - Attempting to navigate to page 25...
+2025-09-09 10:14:50,467 - INFO - Direct link for page 25 not found. Clicking 'Next' button.
+2025-09-09 10:14:50,485 - INFO - --- Scraping Page 25 ---
+2025-09-09 10:14:50,499 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:14:53,943 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:15:07,111 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:15:10,534 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:15:24,358 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:15:27,747 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:15:39,236 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:15:42,675 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:15:54,798 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:15:58,257 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:16:08,304 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:16:11,701 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:16:23,691 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:16:27,106 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:16:38,296 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:16:41,716 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:16:53,817 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:16:57,217 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:17:09,641 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:17:13,048 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:17:23,879 - INFO - Attempting to navigate to page 26...
+2025-09-09 10:17:23,891 - INFO - Direct link for page 26 not found. Clicking 'Next' button.
+2025-09-09 10:17:23,933 - INFO - --- Scraping Page 26 ---
+2025-09-09 10:17:23,946 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:17:27,365 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:17:38,168 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:17:41,577 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:17:54,140 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:17:57,548 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:18:06,980 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:18:10,391 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:18:22,189 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:18:25,582 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:18:36,237 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:18:39,706 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:18:52,857 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:18:56,262 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:19:10,811 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:19:14,345 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:19:30,755 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:19:34,705 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:19:45,592 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:19:48,998 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:20:01,909 - INFO - Attempting to navigate to page 27...
+2025-09-09 10:20:01,926 - INFO - Direct link for page 27 not found. Clicking 'Next' button.
+2025-09-09 10:20:01,972 - INFO - --- Scraping Page 27 ---
+2025-09-09 10:20:01,983 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:20:05,373 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:20:16,473 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:20:19,953 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:20:31,567 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:20:34,972 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:20:47,181 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:20:50,579 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:21:03,114 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:21:06,530 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:21:17,455 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:21:20,869 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:21:32,200 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:21:35,614 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:21:45,137 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:21:48,538 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:21:59,862 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:22:03,267 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:22:13,195 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:22:17,116 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:22:28,214 - INFO - Attempting to navigate to page 28...
+2025-09-09 10:22:28,223 - INFO - Direct link for page 28 not found. Clicking 'Next' button.
+2025-09-09 10:22:28,242 - INFO - --- Scraping Page 28 ---
+2025-09-09 10:22:28,255 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:22:31,669 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:22:41,617 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:22:45,533 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:22:58,274 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:23:01,733 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:23:15,094 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:23:18,534 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:23:33,178 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:23:36,614 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:23:46,088 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:23:49,503 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:24:01,755 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:24:05,152 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:24:17,591 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:24:21,025 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:24:30,349 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:24:34,288 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:24:47,141 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:24:50,547 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:25:01,783 - INFO - Attempting to navigate to page 29...
+2025-09-09 10:25:01,803 - INFO - Direct link for page 29 not found. Clicking 'Next' button.
+2025-09-09 10:25:01,869 - INFO - --- Scraping Page 29 ---
+2025-09-09 10:25:01,880 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:25:05,281 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:25:16,033 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:25:19,451 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:25:31,434 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:25:34,879 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:25:47,334 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:25:50,761 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:26:03,911 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:26:07,310 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:26:21,921 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:26:25,335 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:26:34,817 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:26:38,213 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:26:51,918 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:26:55,370 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:27:05,734 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:27:09,123 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:27:21,532 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:27:24,958 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:27:37,679 - INFO - Attempting to navigate to page 30...
+2025-09-09 10:27:37,686 - INFO - Direct link for page 30 not found. Clicking 'Next' button.
+2025-09-09 10:27:37,707 - INFO - --- Scraping Page 30 ---
+2025-09-09 10:27:37,718 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:27:41,104 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:27:52,183 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:27:55,717 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:28:07,450 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:28:10,887 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:28:21,519 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:28:24,921 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:28:39,457 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:28:42,867 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:28:51,807 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:28:55,218 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:29:05,944 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:29:09,343 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:29:19,328 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:29:22,771 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:29:34,019 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:29:37,460 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:29:48,150 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:29:51,539 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:30:03,242 - INFO - Attempting to navigate to page 31...
+2025-09-09 10:30:03,258 - INFO - Direct link for page 31 not found. Clicking 'Next' button.
+2025-09-09 10:30:03,297 - INFO - --- Scraping Page 31 ---
+2025-09-09 10:30:03,309 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:30:06,713 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:30:17,528 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:30:20,982 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:30:32,869 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:30:36,263 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:30:49,283 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:30:52,690 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:31:04,828 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:31:08,247 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:31:20,897 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:31:24,330 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:31:38,939 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:31:42,360 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:31:54,904 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:31:58,316 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:32:15,468 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:32:18,887 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:32:29,603 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:32:33,017 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:32:46,060 - INFO - Attempting to navigate to page 32...
+2025-09-09 10:32:46,075 - INFO - Direct link for page 32 not found. Clicking 'Next' button.
+2025-09-09 10:32:46,109 - INFO - --- Scraping Page 32 ---
+2025-09-09 10:32:46,120 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:32:49,619 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:32:59,084 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:33:02,482 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:33:15,935 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:33:19,340 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:33:32,103 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:33:35,627 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:33:45,907 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:33:49,311 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:33:58,979 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:34:02,387 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:34:13,342 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:34:16,771 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:34:28,632 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:34:32,070 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:34:44,261 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:34:47,670 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:35:01,124 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:35:04,553 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:35:18,330 - INFO - Attempting to navigate to page 33...
+2025-09-09 10:35:18,337 - INFO - Direct link for page 33 not found. Clicking 'Next' button.
+2025-09-09 10:35:18,353 - INFO - --- Scraping Page 33 ---
+2025-09-09 10:35:18,365 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:35:21,761 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:35:37,365 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:35:40,777 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:35:54,786 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:35:58,247 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:36:08,389 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:36:12,598 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:36:21,787 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:36:25,230 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:36:38,175 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:36:41,593 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:36:51,651 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:36:55,104 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:37:08,651 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:37:12,100 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:37:23,165 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:37:26,555 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:37:38,972 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:37:42,407 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:37:55,307 - INFO - Attempting to navigate to page 34...
+2025-09-09 10:37:55,321 - INFO - Direct link for page 34 not found. Clicking 'Next' button.
+2025-09-09 10:37:55,357 - INFO - --- Scraping Page 34 ---
+2025-09-09 10:37:55,399 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:37:58,841 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:38:09,937 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:38:13,349 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:38:24,477 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:38:27,925 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:38:41,136 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:38:44,565 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:38:54,947 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:38:58,349 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:39:12,792 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:39:16,215 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:39:26,758 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:39:30,159 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:39:43,521 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:39:46,925 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:39:59,635 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:40:03,074 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:40:14,822 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:40:18,259 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:40:32,324 - INFO - Attempting to navigate to page 35...
+2025-09-09 10:40:32,332 - INFO - Direct link for page 35 not found. Clicking 'Next' button.
+2025-09-09 10:40:32,356 - INFO - --- Scraping Page 35 ---
+2025-09-09 10:40:32,369 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:40:35,766 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:40:45,950 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:40:49,388 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:40:59,520 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:41:02,925 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:41:17,481 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:41:21,448 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:41:30,931 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:41:34,331 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:41:44,893 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:41:48,349 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:42:02,182 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:42:05,638 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:42:18,920 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:42:22,351 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:42:35,263 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:42:38,688 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:42:50,229 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:42:53,648 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:43:05,918 - INFO - Attempting to navigate to page 36...
+2025-09-09 10:43:05,930 - INFO - Direct link for page 36 not found. Clicking 'Next' button.
+2025-09-09 10:43:05,969 - INFO - --- Scraping Page 36 ---
+2025-09-09 10:43:05,981 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:43:09,404 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:43:21,350 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:43:24,762 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:43:38,111 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:43:41,505 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:43:52,220 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:43:55,660 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:44:08,718 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:44:12,126 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:44:23,443 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:44:26,876 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:44:36,451 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:44:39,908 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:44:54,230 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:44:57,675 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:45:08,393 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:45:11,838 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:45:24,079 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:45:27,490 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:45:38,590 - INFO - Attempting to navigate to page 37...
+2025-09-09 10:45:38,599 - INFO - Direct link for page 37 not found. Clicking 'Next' button.
+2025-09-09 10:45:38,616 - INFO - --- Scraping Page 37 ---
+2025-09-09 10:45:38,629 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:45:42,081 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:45:54,269 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:45:57,740 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:46:10,161 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:46:14,163 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:46:27,944 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:46:31,352 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:46:43,386 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:46:47,442 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:47:01,098 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:47:04,523 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:47:17,406 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:47:20,827 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:47:34,026 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:47:37,448 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:47:51,053 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:47:57,789 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:48:10,556 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:48:14,005 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:48:23,488 - INFO - Attempting to navigate to page 38...
+2025-09-09 10:48:23,500 - INFO - Direct link for page 38 not found. Clicking 'Next' button.
+2025-09-09 10:48:23,529 - INFO - --- Scraping Page 38 ---
+2025-09-09 10:48:23,557 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:48:26,990 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:48:39,380 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:48:42,792 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:48:55,470 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:48:58,894 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:49:12,636 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:49:16,095 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:49:29,003 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:49:32,449 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:49:46,460 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:49:49,912 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:50:03,192 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:50:06,642 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:50:20,834 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:50:24,255 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:50:37,892 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:50:41,840 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:50:56,093 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:50:59,523 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:51:13,269 - INFO - Attempting to navigate to page 39...
+2025-09-09 10:51:13,276 - INFO - Direct link for page 39 not found. Clicking 'Next' button.
+2025-09-09 10:51:13,298 - INFO - --- Scraping Page 39 ---
+2025-09-09 10:51:13,310 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:51:16,748 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:51:27,969 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:51:31,448 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:51:43,662 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:51:47,598 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:52:04,217 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:52:08,148 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:52:21,827 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:52:25,276 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:52:38,669 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:52:42,609 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:52:56,213 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:53:00,157 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:53:13,544 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:53:17,035 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:53:31,879 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:53:35,318 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:53:48,731 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:53:52,140 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:54:05,849 - INFO - Attempting to navigate to page 40...
+2025-09-09 10:54:05,862 - INFO - Direct link for page 40 not found. Clicking 'Next' button.
+2025-09-09 10:54:05,907 - INFO - --- Scraping Page 40 ---
+2025-09-09 10:54:05,939 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:54:09,375 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:54:21,828 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:54:25,220 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:54:35,617 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:54:39,057 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:54:50,166 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:54:53,616 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:55:07,582 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:55:11,025 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:55:21,342 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:55:24,773 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:55:35,729 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:55:39,187 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:55:49,084 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:55:52,491 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:56:06,295 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:56:09,718 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:56:19,739 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:56:23,186 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:56:38,072 - INFO - Attempting to navigate to page 41...
+2025-09-09 10:56:38,081 - INFO - Direct link for page 41 not found. Clicking 'Next' button.
+2025-09-09 10:56:38,096 - INFO - --- Scraping Page 41 ---
+2025-09-09 10:56:38,107 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:56:42,044 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:56:53,543 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:56:57,002 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:57:08,638 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:57:12,089 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 10:57:23,127 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 10:57:26,536 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 10:57:37,954 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 10:57:41,909 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 10:57:55,447 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 10:57:58,959 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 10:58:14,935 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 10:58:18,329 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 10:58:32,620 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 10:58:36,093 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 10:58:48,907 - INFO - Scraping profile: A. G. Holan
+2025-09-09 10:58:52,335 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 10:59:03,298 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 10:59:06,738 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 10:59:19,281 - INFO - Attempting to navigate to page 42...
+2025-09-09 10:59:19,293 - INFO - Direct link for page 42 not found. Clicking 'Next' button.
+2025-09-09 10:59:19,334 - INFO - --- Scraping Page 42 ---
+2025-09-09 10:59:19,348 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 10:59:22,811 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 10:59:38,401 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 10:59:41,849 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 10:59:55,515 - INFO - Scraping profile: A. A. Garber
+2025-09-09 10:59:58,947 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 11:00:15,554 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 11:00:18,984 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 11:00:31,345 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 11:00:35,253 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 11:00:47,811 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 11:00:51,780 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 11:01:05,893 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 11:01:09,304 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 11:01:21,386 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 11:01:24,823 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 11:01:36,081 - INFO - Scraping profile: A. G. Holan
+2025-09-09 11:01:40,059 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 11:01:53,921 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 11:01:57,354 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 11:02:11,596 - INFO - Attempting to navigate to page 43...
+2025-09-09 11:02:11,613 - INFO - Direct link for page 43 not found. Clicking 'Next' button.
+2025-09-09 11:02:11,631 - INFO - --- Scraping Page 43 ---
+2025-09-09 11:02:11,645 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 11:02:15,091 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 11:02:34,218 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 11:02:37,681 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 11:02:50,681 - INFO - Scraping profile: A. A. Garber
+2025-09-09 11:02:54,069 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 11:03:06,110 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 11:03:09,522 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 11:03:21,780 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 11:03:25,711 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 11:03:41,151 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 11:03:44,620 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 11:03:56,716 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 11:04:00,625 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 11:04:19,843 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 11:04:23,269 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 11:04:36,985 - INFO - Scraping profile: A. G. Holan
+2025-09-09 11:04:40,387 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 11:04:53,348 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 11:04:56,782 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 11:05:10,458 - INFO - Attempting to navigate to page 44...
+2025-09-09 11:05:10,466 - INFO - Direct link for page 44 not found. Clicking 'Next' button.
+2025-09-09 11:05:10,485 - INFO - --- Scraping Page 44 ---
+2025-09-09 11:05:10,499 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 11:05:13,907 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 11:05:28,042 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 11:05:31,452 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 11:05:45,766 - INFO - Scraping profile: A. A. Garber
+2025-09-09 11:05:49,195 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 11:06:01,978 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 11:06:05,430 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 11:06:18,219 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 11:06:21,759 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 11:06:35,942 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 11:06:39,442 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 11:06:54,028 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 11:06:57,466 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 11:07:11,135 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 11:07:14,553 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 11:07:26,282 - INFO - Scraping profile: A. G. Holan
+2025-09-09 11:07:29,770 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 11:07:42,194 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 11:07:45,662 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 11:08:00,060 - INFO - Attempting to navigate to page 45...
+2025-09-09 11:08:00,068 - INFO - Direct link for page 45 not found. Clicking 'Next' button.
+2025-09-09 11:08:00,090 - INFO - --- Scraping Page 45 ---
+2025-09-09 11:08:00,102 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 11:08:03,585 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 11:08:17,905 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 11:08:21,319 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 11:08:32,270 - INFO - Scraping profile: A. A. Garber
+2025-09-09 11:08:35,666 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 11:08:49,264 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 11:08:52,749 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 11:09:03,655 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 11:09:07,046 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 11:09:20,651 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 11:09:24,123 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 11:09:34,104 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 11:09:37,544 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 11:09:49,569 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 11:09:53,130 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 11:10:02,831 - INFO - Scraping profile: A. G. Holan
+2025-09-09 11:10:06,247 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 11:10:19,065 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 11:10:22,497 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 11:10:33,679 - INFO - Attempting to navigate to page 46...
+2025-09-09 11:10:33,691 - INFO - Direct link for page 46 not found. Clicking 'Next' button.
+2025-09-09 11:10:33,707 - INFO - --- Scraping Page 46 ---
+2025-09-09 11:10:33,719 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 11:10:37,181 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 11:10:47,024 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 11:10:50,487 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 11:11:02,443 - INFO - Scraping profile: A. A. Garber
+2025-09-09 11:11:05,896 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 11:11:15,333 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 11:11:18,792 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 11:11:31,859 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 11:11:35,841 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 11:11:51,816 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 11:11:55,772 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 11:12:07,078 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 11:12:10,525 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 11:12:21,706 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 11:12:25,226 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 11:12:38,064 - INFO - Scraping profile: A. G. Holan
+2025-09-09 11:12:41,519 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 11:12:53,318 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 11:12:56,737 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 11:13:10,091 - INFO - Attempting to navigate to page 47...
+2025-09-09 11:13:10,105 - INFO - Direct link for page 47 not found. Clicking 'Next' button.
+2025-09-09 11:13:10,151 - INFO - --- Scraping Page 47 ---
+2025-09-09 11:13:10,162 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 11:13:13,616 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 11:13:26,126 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 11:13:29,590 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 11:13:42,525 - INFO - Scraping profile: A. A. Garber
+2025-09-09 11:13:45,969 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 11:13:56,471 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 11:14:00,904 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 11:14:16,725 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 11:14:20,172 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 11:14:32,928 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 11:14:36,379 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 11:14:47,182 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 11:14:51,162 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 11:15:05,205 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 11:15:09,190 - INFO - Successfully scraped data for: A. Danielle Bourgeois
+2025-09-09 11:15:22,430 - INFO - Scraping profile: A. G. Holan
+2025-09-09 11:15:25,887 - INFO - Successfully scraped data for: A. G. Holan
+2025-09-09 11:15:34,898 - INFO - Scraping profile: A. L. Zebak
+2025-09-09 11:15:38,339 - INFO - Successfully scraped data for: A. L. Zebak
+2025-09-09 11:15:52,298 - INFO - Attempting to navigate to page 48...
+2025-09-09 11:15:52,308 - INFO - Direct link for page 48 not found. Clicking 'Next' button.
+2025-09-09 11:15:52,327 - INFO - --- Scraping Page 48 ---
+2025-09-09 11:15:52,343 - INFO - Scraping profile: A. P. Brackett
+2025-09-09 11:15:55,795 - INFO - Successfully scraped data for: A. P. Brackett
+2025-09-09 11:16:09,843 - INFO - Scraping profile: Lisa M. Farion
+2025-09-09 11:16:13,847 - INFO - Successfully scraped data for: Lisa M. Farion
+2025-09-09 11:16:27,586 - INFO - Scraping profile: A. A. Garber
+2025-09-09 11:16:31,025 - INFO - Successfully scraped data for: A. A. Garber
+2025-09-09 11:16:46,711 - INFO - Scraping profile: A. A. Holinski
+2025-09-09 11:16:50,150 - INFO - Successfully scraped data for: A. A. Holinski
+2025-09-09 11:17:01,998 - INFO - Scraping profile: A. Aboughoushe
+2025-09-09 11:17:05,959 - INFO - Successfully scraped data for: A. Aboughoushe
+2025-09-09 11:17:19,769 - INFO - Scraping profile: A. C. Elmslie
+2025-09-09 11:17:23,223 - INFO - Successfully scraped data for: A. C. Elmslie
+2025-09-09 11:17:39,868 - INFO - Scraping profile: A. D. Schmit
+2025-09-09 11:17:43,319 - INFO - Successfully scraped data for: A. D. Schmit
+2025-09-09 11:17:53,795 - INFO - Scraping profile: A. Danielle Bourgeois
+2025-09-09 11:17:57,278 - INFO - Successfully scraped data for: A. Danielle Bourgeois
